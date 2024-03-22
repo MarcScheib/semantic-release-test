@@ -3,7 +3,7 @@ name: DevSecOps - Main - Release on push
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   release:
