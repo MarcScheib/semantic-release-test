@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/MarcScheib/semantic-release-test/compare/1.2.0...2.0.0) (2024-03-22)
+
+
+### Continuous Integration
+
+* update nodejs action ([5c2485e](https://github.com/MarcScheib/semantic-release-test/commit/5c2485e110d5ca631e097df279455c96efcfaec0))
+
+
+### BREAKING CHANGES
+
+* major
+
 # [1.2.0](https://github.com/MarcScheib/semantic-release-test/compare/1.1.0...1.2.0) (2024-03-22)
 
 
