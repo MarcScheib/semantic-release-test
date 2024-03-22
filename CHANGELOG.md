@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/MarcScheib/semantic-release-test/compare/1.0.2...1.1.0) (2024-03-22)
+
+
+### Features
+
+* test fix ([09420b0](https://github.com/MarcScheib/semantic-release-test/commit/09420b0f482c6e04c68f7f487d65aa11b6ea38af))
+
 ## [1.0.2](https://github.com/MarcScheib/semantic-release-test/compare/1.0.1...1.0.2) (2024-03-22)
 
 
