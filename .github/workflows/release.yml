@@ -1,9 +1,14 @@
-name: DevSecOps - Main - Release on push
+name: DevSecOps - Release on push
 
 on:
   push:
     branches:
+      - main
       - master
+      - next
+      - next-major
+      - beta
+      - alpha
       - '[0-9]+.[0-9]+.x'
       - '[0-9]+.x'
 
